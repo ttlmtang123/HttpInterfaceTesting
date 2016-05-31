@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 	<urllist>
 		<protocol name="https" brokername="仿真账户">
-		<urlitem url="https://192.168.1.69:60007/v2/account/login?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures"> login link</urlitem>
-		<urlitem>https://192.168.1.69:60007/v2/account/QryAccount?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>	
-		<urlitem>https://192.168.1.69:60007/v2/account/QryPosition?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>
-		<urlitem>https://192.168.1.69:60007/v2/account/ReqHistoryTradeRecord?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures&amp;time=day&amp;pagenum=1&amp;pagesize=10</urlitem>
-		<urlitem>https://192.168.1.69:60007/v2/account/ReqHistoryTradeRecord?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures&amp;time=month&amp;pagenum=1&amp;pagesize=10</urlitem>
+		<urlitem url="https://111.222.333.444:5555/v2/account/login?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures"> login link</urlitem>
+		<urlitem>https://111.222.333.444:5555/v2/account/QryAccount?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>	
+		<urlitem>https://111.222.333.444:5555/v2/account/QryPosition?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>
+		<urlitem>https://111.222.333.444:5555/v2/account/ReqHistoryTradeRecord?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures&amp;time=day&amp;pagenum=1&amp;pagesize=10</urlitem>
+		<urlitem>https://111.222.333.444:5555/v2/account/ReqHistoryTradeRecord?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures&amp;time=month&amp;pagenum=1&amp;pagesize=10</urlitem>
 		</protocol>
 		<protocol name="http" brokername="仿真账户">
-		<urlitem>http://121.40.123.86:8997/v2/account/login?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>
-		<urlitem>http://121.40.123.86:8997/v2/account/QryAccount?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>
-		<urlitem>http://121.40.123.86:8997/v2/account/QryPosition?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>
-		<urlitem>http://121.40.123.86:8997/v2/account/ReqHistoryTradeRecord?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures&amp;time=day&amp;pagenum=1&amp;pagesize=10</urlitem>
-		<urlitem>http://121.40.123.86:8997/v2/account/ReqHistoryTradeRecord?accountid=2000212&amp;password=123456&amp;brokername=仿真账户&amp;accounttype=futures&amp;time=month&amp;pagenum=1&amp;pagesize=10</urlitem>
+		<urlitem>https://111.222.333.444:5555/v2/account/login?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>
+		<urlitem>https://111.222.333.444:5555/v2/account/QryAccount?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>
+		<urlitem>https://111.222.333.444:5555/v2/account/QryPosition?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures</urlitem>
+		<urlitem>https://111.222.333.444:5555/v2/account/ReqHistoryTradeRecord?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures&amp;time=day&amp;pagenum=1&amp;pagesize=10</urlitem>
+		<urlitem>https://111.222.333.444:5555/v2/account/ReqHistoryTradeRecord?accountid=00000001&amp;password=aaaaaaaa&amp;brokername=仿真账户&amp;accounttype=futures&amp;time=month&amp;pagenum=1&amp;pagesize=10</urlitem>
 		</protocol>
 	</urllist>
 </xml>
